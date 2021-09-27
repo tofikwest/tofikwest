@@ -1,2 +1,1 @@
-- 🌱 I’m currently learning React, Redux
 - Looking for a job
