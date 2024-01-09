@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tofik</h1>
-<h3 align="center">Hi, I am FullStack developer. I specialized in back-end (JavaScript, TypeScript, NodeJS, NestJS, Express) and DB (MongoDB, MySQL), Docker.</h3>
+<h3 align="center">Hi, I am FullStack developer. I specialized in back-end (JavaScript, TypeScript, NodeJS, NestJS, Express) and DB (MongoDB, PostgreSQL), Docker.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tofikwest&label=Profile%20views&color=0e75b6&style=flat" alt="tofikwest" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **English, Chinese, System Design**
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJS, NestJS, MongoDB, MySQL,Docker**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJS, NestJS, MongoDB, PostgreSQL, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
