@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tofik</h1>
-<h3 align="center">Hi, I am FullStack developer. I specialized in back-end (Python, JavaScript, TypeScript, NodeJS, NestJS, Express) and DB (SQL, NoSQL), Docker.</h3>
+<h3 align="center">Hi, I’m a FullStack developer working with back-end tech like Python, JavaScript, TypeScript, Node.js, NestJS, and Express, and front-end tools like React, Redux, and Next.js. I also handle SQL, NoSQL, Docker, and love tackling algorithmic challenges.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tofikwest&label=Profile%20views&color=0e75b6&style=flat" alt="tofikwest" /> </p>
 
