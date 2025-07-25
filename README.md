@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tofik</h1>
-<h3 align="center">Hi, I am FullStack developer. I specialized in back-end (JavaScript, TypeScript, NodeJS, NestJS, Express) and DB (SQL, NoSQL), Docker.</h3>
+<h3 align="center">Hi, I am FullStack developer. I specialized in back-end (Python, JavaScript, TypeScript, NodeJS, NestJS, Express) and DB (SQL, NoSQL), Docker.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tofikwest&label=Profile%20views&color=0e75b6&style=flat" alt="tofikwest" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tofikwest" alt="tofikwest" /></a> </p>
 
-- 🔭 I’m currently working on **Leave management system**
+- 🔭 I’m currently working on **solving coding problems with a focus on algorithms and data structures**.
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJS, NestJS, MongoDB, MySQL, PostgreSQL, Docker**
+- 💬 Ask me about **Python, JavaScript, TypeScript, NodeJS, NestJS, MongoDB, MySQL, PostgreSQL, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
