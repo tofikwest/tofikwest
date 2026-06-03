@@ -23,15 +23,3 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tofikwest" />
   </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofikwest&show_icons=true&locale=en&layout=compact" alt="tofikwest" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tofikwest&show_icons=true&locale=en" alt="tofikwest" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofikwest&theme=dark" alt="tofikwest" />
-</p>
